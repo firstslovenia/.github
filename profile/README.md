@@ -6,7 +6,7 @@ Tomorrow is up to us, future engineers to solve. Lesson by lesson, project by pr
 
 Our passionate team is truly excited to present what a talented squad from a small nation is capable of. Alongside former members that now mentor our path we can’t wait to show what we have to offer in the engineering world of problem solving. We are FIRST Slovenia.
 
-(credit: @davidzindovic)
+(credit: [@davidzindovic](https://github.com/davidzindovic))
 
 # Slovenian FTC teams 🇸🇮
 - 22903 VegaMind
